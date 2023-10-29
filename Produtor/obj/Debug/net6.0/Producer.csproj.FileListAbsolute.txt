@@ -40,3 +40,12 @@ F:\devio\Dominando Apache Kafka\Kafka\Produtor\obj\Debug\net6.0\refint\Producer.
 F:\devio\Dominando Apache Kafka\Kafka\Produtor\obj\Debug\net6.0\Producer.pdb
 F:\devio\Dominando Apache Kafka\Kafka\Produtor\obj\Debug\net6.0\Producer.genruntimeconfig.cache
 F:\devio\Dominando Apache Kafka\Kafka\Produtor\obj\Debug\net6.0\ref\Producer.dll
+F:\devio\Dominando Apache Kafka\Kafka\Produtor\bin\Debug\net6.0\Avro.dll
+F:\devio\Dominando Apache Kafka\Kafka\Produtor\bin\Debug\net6.0\AvroSchemaGenerator.dll
+F:\devio\Dominando Apache Kafka\Kafka\Produtor\bin\Debug\net6.0\Confluent.SchemaRegistry.dll
+F:\devio\Dominando Apache Kafka\Kafka\Produtor\bin\Debug\net6.0\Confluent.SchemaRegistry.Serdes.Avro.dll
+F:\devio\Dominando Apache Kafka\Kafka\Produtor\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\devio\Dominando Apache Kafka\Kafka\Produtor\bin\Debug\net6.0\System.CodeDom.dll
+F:\devio\Dominando Apache Kafka\Kafka\Produtor\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+F:\devio\Dominando Apache Kafka\Kafka\Produtor\bin\Debug\net6.0\System.Text.Json.dll
+F:\devio\Dominando Apache Kafka\Kafka\Produtor\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
