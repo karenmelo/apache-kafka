@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "nD8kaz+/ndiV/TBCMkVNjmfbAhSg7TFmjDi1OkI8J+K8dkkQ7VIRK3ckwV5APx8k0tNZDjX8VQcQS8iAQGB6UA==",
+  "success": true,
+  "projectFilePath": "F:\\devio\\Dominando Apache Kafka\\Kafka\\Produtor\\Producer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Karen\\.nuget\\packages\\confluent.kafka\\2.3.0\\confluent.kafka.2.3.0.nupkg.sha512",
+    "C:\\Users\\Karen\\.nuget\\packages\\librdkafka.redist\\2.3.0\\librdkafka.redist.2.3.0.nupkg.sha512",
+    "C:\\Users\\Karen\\.nuget\\packages\\system.memory\\4.5.0\\system.memory.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
